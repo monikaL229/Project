@@ -2,6 +2,7 @@
     display: flex;
     padding:0 2rem;
     gap:10rem;
+    
 
 
 }
@@ -11,6 +12,7 @@
     font-weight: bold;
     text-transform: uppercase;
     position: relative;
+    padding-left: 40px;
 }
 .left-j>hr{
     position: absolute;

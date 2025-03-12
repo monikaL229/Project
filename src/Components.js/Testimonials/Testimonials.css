@@ -14,6 +14,7 @@
 .left-t>:nth-child(1){
     color:var(--orange);
     font-weight: bold;
+    font-size: 2rem;
 }
 .left-t>:nth-child(2),.left-t>:nth-child(3){
 font-weight: bold;

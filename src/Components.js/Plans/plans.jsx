@@ -13,13 +13,13 @@ const Plans=() =>{
 
 <div className="blur plans-blur-2"></div>
 
- <div className="program-header" style={{gap:'2rem'}}>
+<div className='hero-text'>
+               <div>
+                  <span className='stroke-text'>READY TO START </span>
+                  
+               </div><div> <span>YOUR JOURNEY</span> <span className='stroke-text'>NOW WITHUS</span></div>
+              </div>
 
-            <span className='stroke-text'>READY TO START</span>
-            
-            <span>YOUR JOURNEY</span>
-            <span className='stroke-text'>NOW WITHUS</span>
-        </div>
 
         {/* card */}
         <div className="plans">
